@@ -1,6 +1,6 @@
 #  Gromiko Artem
 
-+375 44 743-734-1  
+
 ica-e@mail.ru
 #  Summary
 I do not have enough experience in front-end development, but every day I spend a lot of time learning new / strengthening knowledge in the already studied technologies.
